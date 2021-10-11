@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* .empChart{
+    width: 20rem !important;
+    height: 20rem !important;
+} */
+h2{
+    font-family: "Roboto";
+}
+
+
